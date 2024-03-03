@@ -1,0 +1,119 @@
+body {
+    background-color: beige;
+    font-family:sans-serif
+}
+#backgroundimg {
+    opacity: 0.175;
+    max-height: 675px; 
+    max-width: 675px;
+    top: 0px;
+}
+h1 {
+    font-weight: 750px;
+    top: 0px;
+    position: absolute;
+}
+#intro {
+    font-size: 20px;
+    top: 50px;
+    position: absolute;
+}
+#basics {
+    font-size: 20px;
+    top: 250px;
+    position: absolute;
+}
+
+#instructions {
+    font-size: 15px;
+    top: 285px;
+    position: absolute;
+
+}
+#measurements {
+    top: 350px;
+    position: absolute;
+
+}
+header {
+    font-size: 25px;
+    position: absolute;
+    top: 400px
+}
+
+h2 {
+    font-size: 20px;
+    position: absolute;
+    top: 425px
+
+}
+
+#MonsteraButton {
+    background-color: rgb(169, 211, 107);    
+    color: black;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+#Monsterapic {
+    position: absolute;
+    top: 450px;
+    left: 150px;
+    margin-left: 50px;
+    max-width: 150px;
+    max-height: 150px;
+    border: 3px solid #07610f;   
+}
+
+#CactusButton {
+    background-color: #a9d36b;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+#Cactuspic {
+    position: absolute;
+    top: 450px;
+    left: 302px;
+    margin-left: 50px;
+    max-width: 150px;
+    max-height: 150px;
+    border: 3px solid #07610f;
+}
+
+
+#CalatheaButton {
+    background-color: rgb(169, 211, 107);
+    color: black;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+    
+}
+
+#Calatheapic {
+    position: absolute;
+    top: 450px;
+    left: 454px;
+    margin-left: 50px;
+    max-width: 150px;
+    max-height: 150px;
+    border: 3px solid #07610f;
+}
+#Notes1{
+    position: absolute;
+    top: 615px;
+}
+
+#Notes2 {
+    position: absolute;
+    top: 650px;
+}
+footer {
+    font-style: italic;
+    position: absolute;
+    top: 725px;
+}
